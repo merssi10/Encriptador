@@ -1,1 +1,2 @@
-:construction: Proyecto en construcción :construction:
+1) Estado del proyecto:
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-gre
